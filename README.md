@@ -9,19 +9,26 @@
 - Math and Reading Scores by grade:
   The only group affected by this change were the ninth graders at Thomas High School as their results were all changed to 0. The other schools were not affected in any grade. 
 - Scores by School Spending:
+
   ![before](https://github.com/JTGonzaga/School_District_Analysis/blob/main/before.png)
   ![After](https://github.com/JTGonzaga/School_District_Analysis/blob/main/after.png)
   
-  The scores based on school spending were only affected in the $631-$645 row because that's the range that Thomas High School falls into. As you can see by the charts, the aerage math score went down from 79.1 to 78.5, the average readings score went down from an 81.9 to an 81.6. The biggest changes we se are in the percentages. % passing math went down 3%, % passing reading went down 2%, and % overall passing went down 3%
+  The scores based on school spending were only affected in the $631-$645 row because that's the range that Thomas High School falls into. As you can see by the charts, the aerage math score went down from 79.1 to 78.5, the average readings score went down from an 81.9 to an 81.6. The biggest changes we se are in the percentages. % passing math went down 3%, % passing reading went down 2%, and % overall passing went down 3%.
+  
 - Scores by School Size:
+
 ![size_before](https://github.com/JTGonzaga/School_District_Analysis/blob/main/size_before.png)
 ![size_after](https://github.com/JTGonzaga/School_District_Analysis/blob/main/size_after.png)
   The overall scores by school size were not affected much by the changes due to Thomas High School. The average math and reading score were both decreased by a fraction of a percent. The percent of passing math, passing reading, and overall passing were affected by 0.01%, 0.06%, and 0.07% respectively. 
+  
 - Scores by School Type:
+
 ![type_before](https://github.com/JTGonzaga/School_District_Analysis/blob/main/type_before.png)
 ![type_after](https://github.com/JTGonzaga/School_District_Analysis/blob/main/type_after.png)
 
   The overall scores by school type were not affected to a reasonable degree. Rounding to the nearest whole number did not show any signifigant distinction.
+  
 ## Summary
+
   As a district, there were not many distinguishable differences to the data as a whole in terms of the changes brought about by the academic dishonesty of the ninth graders of Thomas High School. The only major differences were seen when analyzing Thomas High School's statistics. Scores by school size, type or spending were not affected to a meaningful degree. The biggest changes were to the math and reading scores by grade which mostly only affected Thomas High School. Even the scores of the district as a whole did not seem to be impacted in any sort of major way.
   
