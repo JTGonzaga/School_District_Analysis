@@ -11,6 +11,7 @@
 - Scores by School Spending:
   ![before](https://github.com/JTGonzaga/School_District_Analysis/blob/main/before.png)
   ![After](https://github.com/JTGonzaga/School_District_Analysis/blob/main/after.png)
+  
   The scores based on school spending were only affected in the $631-$645 row because that's the range that Thomas High School falls into. As you can see by the charts, the aerage math score went down from 79.1 to 78.5, the average readings score went down from an 81.9 to an 81.6. The biggest changes we se are in the percentages. % passing math went down 3%, % passing reading went down 2%, and % overall passing went down 3%
 - Scores by School Size:
 ![size_before](https://github.com/JTGonzaga/School_District_Analysis/blob/main/size_before.png)
@@ -19,6 +20,7 @@
 - Scores by School Type:
 ![type_before](https://github.com/JTGonzaga/School_District_Analysis/blob/main/type_before.png)
 ![type_after](https://github.com/JTGonzaga/School_District_Analysis/blob/main/type_after.png)
+
   The overall scores by school type were not affected to a reasonable degree. Rounding to the nearest whole number did not show any signifigant distinction.
 ## Summary
   As a district, there were not many distinguishable differences to the data as a whole in terms of the changes brought about by the academic dishonesty of the ninth graders of Thomas High School. The only major differences were seen when analyzing Thomas High School's statistics. Scores by school size, type or spending were not affected to a meaningful degree. The biggest changes were to the math and reading scores by grade which mostly only affected Thomas High School. Even the scores of the district as a whole did not seem to be impacted in any sort of major way.
